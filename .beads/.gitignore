@@ -63,6 +63,12 @@ backup/
 # Per-project environment file (Dolt connection config, GH#2520)
 .env
 
+# Runtime auto-import staging file (not the tracked issues.jsonl)
+.auto-import-issues.jsonl
+
+# Background dolt push log
+dolt-push.log
+
 # Legacy files (from pre-Dolt versions)
 *.db
 *.db?*
