@@ -1,5 +1,7 @@
 # Digital Asset Management for Life Itself
 
+Current checkpoint (September 2026): central strategy and pipeline design now live in [comms/docs/content-strategy.md](../comms/docs/content-strategy.md). DAM supports that work. See the [research checkpoint](docs/research-checkpoint-2026-09-13.md) before following the historical intake-first direction below.
+
 Aside: Issue for task tracking: [https://github.com/life-itself/community/issues/1236](https://github.com/life-itself/community/issues/1236)
 
 For SCQH and motivation see MOTIVATION.md
@@ -32,4 +34,3 @@ Right now, the **pull approach is most urgent**, as we need content for specific
 ## Next Steps
 
 * We are working on the website in the coming days, possibly live-editing with someone—**you can join to help fill in media** where needed.
-
